@@ -11,7 +11,7 @@ pc2 leagazas
 pc2leag modosoitas
 pc2leag modosoitas modositas
 pulled
-vmi 1115 hozzadas | 1115 append
+vmi 1115 hozzadas | 1130 append
 
 ujjab oldalag modositas
 
