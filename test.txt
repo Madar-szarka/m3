@@ -4,4 +4,5 @@
 4
 merged
 nerged
-vmi foag hozzadas
+vmi 1115 hozzadas | 1115 append
+11 15 hozzadas a vegere
